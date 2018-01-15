@@ -45,5 +45,4 @@ function run() {
 	keyTrainer.createTask();
 	keyTrainer.startTask();
 }
-
 run();
